@@ -16,6 +16,10 @@ in x86 Assembly lanaguage, processed by an MIT-authored cross-assembler.  The co
 a Heath-19 terminal (popular at the time, and with enough smarts to run display editors.)
 (BASIC also had surprisingly good facilities for "calling" assembly language.)
 
+---
+
 IBMFTP.BAS - the main program, in BASICA.
+
 HEATH.A86 - the Heath terminal emulator.
+
 CHKSUM.A86 - compute the MODEM2 checksum (also in assembly, for speed, and for the math.)
